@@ -1,3 +1,6 @@
+# Download a plugin?
+Simply click the plugin you want, press "raw" and click CTRL and S to save.
+
 # What each plugin does
 
 > [0BDFDB](/plugins/0BDFDB.plugin.js) is a library for BD plugins. Required for lots of plugins.\
