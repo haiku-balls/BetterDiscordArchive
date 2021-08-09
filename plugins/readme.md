@@ -1,5 +1,5 @@
 # Download a plugin?
-Simply click the plugin you want, press "raw" and click CTRL and S to save.
+Simply click the plugin (not in the readme) you want, press "raw" and click CTRL and S to save.
 
 # What each plugin does
 
@@ -7,7 +7,7 @@ Simply click the plugin you want, press "raw" and click CTRL and S to save.
 [0PluginLibrary](/plugins/0PluginLibrary.plugin.js) also a library.\
 [1XenoLib](/plugins/1XenoLib.plugin.js) also a library.\
 [2CommandsAPI](/plugins/2CommandsAPI.plugin.js) adds BD commands support. Prefix is "-"\
-[AccountSwitcher]()) Self-Explanitory.\
+[AccountSwitcher]() Self-Explanitory.\
 [APlatformIndicators]() Adds...you guessed it!\
 [AssignBadges]() Give others or yourself badges locally.\
 [AutoStartRichPresence]() Rich presence yea.\
